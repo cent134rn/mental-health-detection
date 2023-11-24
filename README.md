@@ -21,7 +21,18 @@ Decent work supports good mental health by providing:
 
 
 # Purpose 
-To find out and predict the probability for someone or especially patient that predicted has problem with their mental health or not according to the causing factors with a lot of steps such as data processing like scaling for numerical data, encoding for categorical data, hyperparameter tuning, and models training for classification models on Machine Learning such as K- Nearest Neighbors (KNN), Logistic Regression, Random Forest, and Naive Bayes using Python programming language in Google Colab.
-In this project, we hope that we can evaluate the potential of model application for help many companies and workers to gain mutual benefits by starting the mental health in medical fields or even using real time data. 
-It will help us to learn the implementation of the models and the impacts to support early diagnosis and  handling the mental health for all people especially for the workers to keep healthy in mental and productively.
+To find out and predict the probability for someone or especially patient that predicted has problem with their mental health or not according to the causing factors. 
 
+There are a lot of steps to find and predict the probability such as 
+1. Data Visualization, to know the spread of the data in order to make the best decision 
+2. Data Preprocessing, like normalization (in this case, using scaling is good idea for numerical data)
+3. Label Encoding for categorical data (using one-hot encoding)
+4. Hyperparameter tuning and models training for classification models on Machine Learning using Python programming language in Google Colab such as : 
+   a. K- Nearest Neighbors (KNN)
+   b. Logistic Regression
+   c. Random Forest
+   d. Naive Bayes
+   
+In this project, we hope that we can evaluate the potential of model application for help many companies and workers to gain mutual benefits by starting the mental health in medical fields or even using real time data. 
+
+It will help us to learn the implementation of the models and the impacts to support early diagnosis and  handling the mental health for all people especially for the workers to keep healthy in mental and productively.
