@@ -1,5 +1,7 @@
 # mental-health-detection
-Reference : https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work#:~:text=The%20WHO%20guidelines%20on%20mental,participate%20and%20thrive%20in%20work.
+References : 
+1. https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work#:~:text=The%20WHO%20guidelines%20on%20mental,participate%20and%20thrive%20in%20work.
+2. https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 
 # Project Background 
 According to WHO (World Health Organization) : 
