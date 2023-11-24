@@ -27,11 +27,7 @@ There are a lot of steps to find and predict the probability such as
 1. Data Visualization, to know the spread of the data in order to make the best decision 
 2. Data Preprocessing, like normalization (in this case, using scaling is good idea for numerical data)
 3. Label Encoding for categorical data (using one-hot encoding)
-4. Hyperparameter tuning and models training for classification models on Machine Learning using Python programming language in Google Colab such as : 
-   a. K- Nearest Neighbors (KNN)
-   b. Logistic Regression
-   c. Random Forest
-   d. Naive Bayes
+4. Hyperparameter tuning and models training for classification models on Machine Learning using Python programming language in Google Colab such as K- Nearest Neighbors (KNN), Logistic Regression, Random Forest, and Naive Bayes
    
 In this project, we hope that we can evaluate the potential of model application for help many companies and workers to gain mutual benefits by starting the mental health in medical fields or even using real time data. 
 
